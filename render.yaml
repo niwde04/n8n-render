@@ -16,4 +16,4 @@ services:
       - key: GENERIC_TIMEZONE
         value: "America/Tegucigalpa"
       - key: WEBHOOK_TUNNEL_URL
-        value: "https://n8n-your-subdominio.onrender.com"
+        value: ""
